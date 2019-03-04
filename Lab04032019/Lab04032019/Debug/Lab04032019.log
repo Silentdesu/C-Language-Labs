@@ -1,0 +1,3 @@
+﻿  FirstLab.cpp
+c:\users\cirba\source\repos\lab04032019\lab04032019\firstlab.cpp(6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Lab04032019.vcxproj -> C:\Users\cirba\source\repos\Lab04032019\Debug\Lab04032019.exe
