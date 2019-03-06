@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\cirba\desktop\matrix7x5\matrix7x5\source.cpp(6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Matrix7x5.vcxproj -> C:\Users\cirba\Desktop\Matrix7x5\Debug\Matrix7x5.exe
