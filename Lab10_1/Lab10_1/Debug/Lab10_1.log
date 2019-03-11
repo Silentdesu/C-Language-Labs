@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\cirba\desktop\lab10_1\lab10_1\source.cpp(5): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Lab10_1.vcxproj -> C:\Users\cirba\Desktop\Lab10_1\Debug\Lab10_1.exe
