@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\cirba\desktop\lab10_2\lab10_2\source.cpp(5): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\cirba\desktop\lab10_2\lab10_2\source.cpp(12): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+  c:\users\cirba\desktop\lab10_2\lab10_2\source.cpp(12): note: заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+  c:\users\cirba\desktop\lab10_2\lab10_2\source.cpp(12): note: отсутствующий вариативный аргумент "2" требуется для строки форматирования "%c"
+  c:\users\cirba\desktop\lab10_2\lab10_2\source.cpp(12): note: этот аргумент используется в качестве размера буфера
+  Lab10_2.vcxproj -> C:\Users\cirba\Desktop\Lab10_2\Debug\Lab10_2.exe
