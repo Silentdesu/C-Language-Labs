@@ -13,7 +13,7 @@ void main() {
 	printf("Input a binary number: ");
 	for (i = 8; i > 0; i--) {
 
-		scanf_s("%d", &userBin);
+		scanf_s("%d", &userBin); // you have to write each number with space
 
 		if (userBin == 1) { //if userBin = 1 then enter the statement
 		
