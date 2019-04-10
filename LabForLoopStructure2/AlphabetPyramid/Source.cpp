@@ -12,7 +12,7 @@ void pyramid(int number);
 void main() {
 	int userNum;
 	
-	printf("Please write a number of pyramid: ");
+	printf("Please write a number for lines of pyramid: ");
 	scanf_s("%d", &userNum);
 
 	pyramid(userNum);
@@ -24,7 +24,7 @@ void main() {
 void pyramid(int number) {
 	int i, j, k, x = 1;
 
-	for (i = number; i > 1; i--) { //Start of our pyramid
+	for (i = number; i > 0; i--) { //Start of our pyramid
 
 		for (j = i - 1; j > 0; j--) //Make a spaces
 			printf(" ");
